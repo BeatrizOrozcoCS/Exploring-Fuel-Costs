@@ -6,7 +6,7 @@
 Average Battery Size: 71.0 KWh
 Average Range: 225.0 mi
 
-### Exploring the data for gasoline cars
+### Exploring the data for gasoline cars https://github.com/beatrizoro/CarvanaDataVisulization
 Average HWY MPG: 29.0 MPG
 Average City MPG: 22.0 MPG
 
