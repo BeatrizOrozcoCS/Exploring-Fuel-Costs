@@ -12,14 +12,14 @@ Average City MPG: 22.0 MPG
 
 Average MPG: 25.5 MPG
 
-### Exploring the electrical residential cost by ultilities specifically in california
+### Exploring the electrical residential cost by ultilities specifically in california https://www.eia.gov/electricity/data/state/
 Average Cost per KWH: ($) 0.2407
 
-### Gasoline costs in California
+### Gasoline costs in California https://www.eia.gov/dnav/pet/pet_pri_gnd_dcus_r50_w.htm
 
 Average Cost per Gallon of Gasoline: ($) 4.482
 
-### Average Consumer Behavior in commuting
+### Average Consumer Behavior in commuting https://afdc.energy.gov/data/10309
 Average Yearly Mileage: 11467, mi
 
 ### Results
