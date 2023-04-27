@@ -23,5 +23,5 @@ Average Cost per Gallon of Gasoline: ($) 4.482
 Average Yearly Mileage: 11467, mi
 
 ### Results
-Cost to operate an Electrical Car, Annually,: ($) 870.9670662222222
+Cost to operate an Electrical Car, Annually,: ($) 870.9670662222222 <br>
 Cost to operate an Gasoline Car, Annually,: ($) 2015.4938823529412
